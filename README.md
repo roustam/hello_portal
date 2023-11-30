@@ -1,6 +1,7 @@
 # Hello portal
 
-This is an example of website built with MUI
+This is an example of website built with ReactJS + MUI.
+Backend is not included.
 
 # hello_portal urls
 
